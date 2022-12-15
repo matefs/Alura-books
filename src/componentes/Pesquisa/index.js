@@ -26,7 +26,7 @@ margin-bottom: 40px;
 `
 
 const Resultado = styled.div`
-display: flex;
+display: flex; 
 justify-content: center;
 align-items: center;
 margin-bottom: 20px;
