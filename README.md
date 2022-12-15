@@ -1,6 +1,6 @@
 # Alura books landing page 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto simples utilizando ReactJS feito durante o seguinte curso da alura  [React: crie sua primeira página web](https://cursos.alura.com.br/course/react-crie-primeira-pagina-web/)
 
  ![projeto](https://user-images.githubusercontent.com/30128774/207980419-eca6c85f-60ac-4726-8437-b1de52011aa0.png)
 
